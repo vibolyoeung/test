@@ -1,0 +1,22 @@
+{
+    "name": "vibolyoeung/test",
+    "type": "library",
+    "time" : "2020-01-31",
+    "license" : "Public Domain",
+    "description": "Test composer",
+    "keywords": ["Blowfish", "crypt", "password", "security"],
+    "homepage": "http://github.com/vibolyoeung/test/",
+    "authors": [
+        {
+            "name" : "Vibol",
+            "email": "yoeung.vibol@gmail.com",
+            "homepage": "https://github.com/"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-0": {"Hautelook": "src/"}
+    }
+}
